@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wnvn7e4EQ/L2xb1JhZ9cyJ6nih1KxEPGguf0jLJ8C889xeQombFmC+V8wAlYc2V7jPt/i88V5XEnXC/y3djm4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cox87208\\Desktop\\ShortUrlService\\API\\UrlShortener.Core.Entities\\UrlShortener.Core.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cox87208\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

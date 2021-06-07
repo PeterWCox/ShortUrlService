@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlShortener.DataAccess", "UrlShortener.DataAccess\UrlShortener.DataAccess.csproj", "{2380BD41-B414-4FDB-8C7A-FA66B5B55230}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlShortener.Core.Entities", "UrlShortener.Core.Entities\UrlShortener.Core.Entities.csproj", "{61C173B5-ACAC-40F3-BA02-6B41486B611F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDF29D6C-B74B-4619-8BD7-A679FBC6AA53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlShortener.AzureFunctionsAPI", "UrlShortener.AzureFunctionsAPI\UrlShortener.AzureFunctionsAPI.csproj", "{6CE57B4A-AD9D-48B3-B8A4-F211EB19076A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UrlShortener.Core.BusinessLogic", "UrlShortener.Core.BusinessLogic\UrlShortener.Core.BusinessLogic.csproj", "{70D16335-21A4-40B0-BE41-8C18483E6F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2380BD41-B414-4FDB-8C7A-FA66B5B55230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2380BD41-B414-4FDB-8C7A-FA66B5B55230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2380BD41-B414-4FDB-8C7A-FA66B5B55230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2380BD41-B414-4FDB-8C7A-FA66B5B55230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C173B5-ACAC-40F3-BA02-6B41486B611F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C173B5-ACAC-40F3-BA02-6B41486B611F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C173B5-ACAC-40F3-BA02-6B41486B611F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C173B5-ACAC-40F3-BA02-6B41486B611F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE57B4A-AD9D-48B3-B8A4-F211EB19076A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE57B4A-AD9D-48B3-B8A4-F211EB19076A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE57B4A-AD9D-48B3-B8A4-F211EB19076A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE57B4A-AD9D-48B3-B8A4-F211EB19076A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D16335-21A4-40B0-BE41-8C18483E6F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D16335-21A4-40B0-BE41-8C18483E6F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D16335-21A4-40B0-BE41-8C18483E6F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D16335-21A4-40B0-BE41-8C18483E6F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5D4D90-4CA9-4816-ACFF-7FE2C33DF892}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mottmac.visualstudio.com/
+		SccProjectUniqueName0 = UrlShortener.DataAccess\\UrlShortener.DataAccess.csproj
+		SccProjectName0 = UrlShortener.DataAccess
+		SccLocalPath0 = UrlShortener.DataAccess
+		SccProjectUniqueName1 = UrlShortener.Core.Entities\\UrlShortener.Core.Entities.csproj
+		SccProjectName1 = UrlShortener.Core.Entities
+		SccLocalPath1 = UrlShortener.Core.Entities
+		SccProjectUniqueName2 = UrlShortener.Core.BusinessLogic\\UrlShortener.Core.BusinessLogic.csproj
+		SccProjectName2 = UrlShortener.Core.BusinessLogic
+		SccLocalPath2 = UrlShortener.Core.BusinessLogic
+		SccProjectUniqueName3 = UrlShortener.AzureFunctionsAPI\\UrlShortener.AzureFunctionsAPI.csproj
+		SccProjectName3 = UrlShortener.AzureFunctionsAPI
+		SccLocalPath3 = UrlShortener.AzureFunctionsAPI
+		SccLocalPath4 = .
+	EndGlobalSection
+EndGlobal
